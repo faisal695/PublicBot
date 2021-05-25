@@ -14,7 +14,7 @@
         "_plugin": {
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
-            "INVALID_URL": "```Please enter a valid url!```",
+            "INVALID_URL": "```Please enter valid url!```",
             "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
@@ -489,7 +489,7 @@
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
          },
         "instagram": {
-            "NEED_WORD": "*Please enter username of any instagram account.*",
+            "NEED_WORD": "*Please enter username of .*",
             "USAGE": ".insta <userName>",
             "DESC": "Fetches user informations from instagram",
             "LOADING": "Fetching user data...\n please wait.",
